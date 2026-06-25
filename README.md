@@ -1,4 +1,4 @@
-# 🚀 Avian Framework
+# <img width="64" height="64" alt="Avian" src="https://github.com/user-attachments/assets/5db6976b-9579-4bfc-807b-093394a0c600" /> Avian Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C#](https://img.shields.io/badge/Language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
